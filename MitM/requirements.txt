@@ -1,0 +1,6 @@
+pygame==2.1.2
+sqlite3==3.36.0
+kivy==2.1.0
+json==2.0.9
+random==2.0
+webbrowser==0.0.0
